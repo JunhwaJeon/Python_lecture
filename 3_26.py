@@ -9,3 +9,4 @@ while line!=n:
             print('{:2d}'.format(line*n+i),end=' ')
     print()
     line=line+1
+    
