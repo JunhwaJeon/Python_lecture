@@ -1,4 +1,3 @@
-n=int(input('n?'))
+import math as m
 
-for i in range(n+1):
-    print('#'*i+' '*(2*n-2*i+1)+'#'*i)
+dir(m)
